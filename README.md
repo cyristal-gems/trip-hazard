@@ -1,7 +1,12 @@
 # Trip Hazard: The Game
 
-
 **Trip Hazard** is a quirky arcade‑style endless runner that is best supported on **tablet and desktop**. Built using only HTML, CSS, JavaScript, and the Canvas API — no frameworks or installs, just open and play. A moody sprint: pixel duck, prickly bushes, pesky birds—easy start, tough finish. 
+
+---
+
+## 👀 Preview
+
+<img width="1115" height="750" alt="Trip Hazard" src="https://github.com/user-attachments/assets/1f975f7e-c908-4828-bb48-66d6c88f6ab9" />
 
 ---
 
