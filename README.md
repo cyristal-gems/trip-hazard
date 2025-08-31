@@ -6,7 +6,7 @@
 
 ## 👀 Preview
 
-/Users/cyristalnjoseph/Desktop/Trip Hazard.png
+<img width="1153" height="756" alt="Trip Hazard" src="https://github.com/user-attachments/assets/ef423e2a-687f-45a1-81a0-2c2bfd7fd3c5" />
 
 ---
 
@@ -24,7 +24,6 @@
 - **Dark mode** aesthetic with a clean, minimal UI  
 - **High‑contrast glowing obstacles** for visibility on all screens  
 - **Local best score** saved right in your browser  
-- Lightweight: a single `index.html` with inline JS + CSS  
 
 ---
 
