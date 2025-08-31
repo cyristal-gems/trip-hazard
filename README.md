@@ -15,7 +15,7 @@
 
 **Other Controls:**
 - ⏸ **Pause:** Press **P** or click the Pause button  
-- ↺ **Restart:** After a game over, click **Start Run** (or press **Space** on the overlay)
+- ↺ **Restart:** After a game over, click **Start Run** or press the **Space** bar
 
 ---
 
