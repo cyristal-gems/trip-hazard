@@ -1,6 +1,6 @@
 # Trip Hazard: The Game
 
-**Trip Hazard** is a quirky arcade‑style endless runner that is best supported on **desktop**. Built using only HTML, CSS, JavaScript, and the Canvas API — no frameworks or installs, just open and play. A moody sprint: pixel duck, prickly bushes, pesky birds—easy start, tough finish. 
+**Trip Hazard** is a quirky arcade‑style endless runner that is best supported on **desktop**. Built using only HTML, CSS, JavaScript, and the Canvas API — no frameworks or installs, just open and play. Control a pixel duck through bushes and birds as the tempo rises from easy to tough.
 
 ---
 
@@ -15,7 +15,7 @@
 
 **Other Controls:**
 - ⏸ **Pause:** Press **P** or click the Pause button  
-- ↺ **Restart:** After a game over, click **Start Run** or press the **Space** bar
+- ↺ **Restart:** After a game over, click **Start Run** or press the **Space** 
 
 ---
 
@@ -32,7 +32,6 @@
 - **CSS** — colors and layout so it looks good on desktop and tablet.
 - **JavaScript** — the game rules: jump/duck controls, obstacles, score, and speed-up.
 - **Canvas** — draws the duck, bushes, birds, and ground each frame.
-- **Local Storage** — saves your best score on this device. 
 
 ---
 
